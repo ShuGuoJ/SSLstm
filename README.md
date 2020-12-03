@@ -99,5 +99,7 @@ This is a reproduction of *Hyperspectral image classification using spectral-spa
 
 # Runing the code
 训练光谱分支 `python TrainBySpectral.py --name xx --epoch xx --lr xx`
+
 训练空间分支 `python TrainBySpatial.py --name xx --epoch xx --lr xx`
+
 联合预测 `python JointPredict.py`
