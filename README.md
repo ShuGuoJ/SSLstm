@@ -96,6 +96,7 @@ This is a reproduction of *Hyperspectral image classification using spectral-spa
 <td>0.36</td>
 </tr>
 </table>
+
 # Runing the code
 训练光谱分支 `python TrainBySpectral.py --name xx --epoch xx --lr xx`
 训练空间分支 `python TrainBySpatial.py --name xx --epoch xx --lr xx`
